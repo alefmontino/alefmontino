@@ -42,8 +42,4 @@ Olá, me chamo Alef Montino, um apaixonado por tecnologia, cyber segurança e pr
 - [Projeto 2](link_para_projeto_2): Breve descrição do projeto.
 - [Projeto 3](link_para_projeto_3): Breve descrição do projeto.
 
-## Vamos Conectar!
-- [LinkedIn](seu_linkedin): Compartilhando conhecimento e experiências.
-- [Portfolio](seu_portfolio): Conheça mais sobre meu trabalho.
-
 Se você está procurando alguém que combine paixão pela tecnologia com habilidades técnicas sólidas, estou pronto para novos desafios. Vamos criar algo incrível juntos!
