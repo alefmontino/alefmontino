@@ -41,7 +41,7 @@ Olá, me chamo Alef Montino, um apaixonado por tecnologia e programação. Desen
 - Habilidades em análise estatística e interpretação de dados.
 - Proficiência em língua inglesa em nível avançado.
 - Habilidades em fornecer suporte técnico em computadores.
-- Habilidades em atendimento ao cliente.
+- Habilidades em atendimento.
 
 ## Projetos Destacados
 - [Projeto 1](link_para_projeto_1): Breve descrição do projeto.
