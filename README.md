@@ -33,16 +33,6 @@ Olá, me chamo Alef Montino, um apaixonado por tecnologia e programação. Desen
   
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://media.discordapp.net/attachments/828822572678119464/1196810892130668605/Logo-Uniasselvi-1.png?ex=65b8fc00&is=65a68700&hm=59943118812818f68a18d027e4daa5d34d04098da7098d9447a6f6ac506e4118&=&format=webp&quality=lossless&width=418&height=418">   Centro Universitário Leonardo da Vinci
 
-
-## Habilidades importantes destacar:
-- Proficiência em ferramentas e plataformas de comunicação, videoconferência, gerenciamento de projetos e colaboração remota.
-- Conhecimento em softwares específicos, como Photoshop, Illustrator, Pacote Office, AutoCAD, dependendo da área de atuação.
-- Capacidade de criar conteúdo escrito para blogs, redes sociais, relatórios, documentação técnica ou comunicações internas/externas.
-- Habilidades em análise estatística e interpretação de dados.
-- Proficiência em língua inglesa em nível avançado.
-- Habilidades em fornecer suporte técnico em computadores.
-- Habilidades em atendimento.
-
 ## Projetos Destacados
 - [Projeto 1](link_para_projeto_1): Breve descrição do projeto.
 - [Projeto 2](link_para_projeto_2): Breve descrição do projeto.
