@@ -1,7 +1,7 @@
 # Bem-vindo ao Meu Perfil! - Alef Montino 👋
 
 ## Carreira
-🌱 Estou constantemente aprendendo e sempre em busca de desafios interessantes. Acredito que a melhor maneira de evoluir como desenvolvedor é enfrentar problemas complexos e aprender com cada experiência.
+🌱 Em constante aprendezado, buscando desafios interessantes. Acredito que a melhor maneira de evoluir como desenvolvedor é enfrentar problemas complexos e aprender com cada experiência.
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
