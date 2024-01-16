@@ -1,7 +1,7 @@
 # Bem-vindo ao Meu Perfil! 👋
 
 ## Sobre Mim
-Olá, me chamo Alef Montino, um apaixonado por tecnologia e programação. Desenvolvo soluções inovadoras e estou sempre em busca de desafios que me permitam aprender e crescer.
+Olá, me chamo Alef Montino, um apaixonado por tecnologia, cyber segurança e programação. Desenvolvo soluções inovadoras e estou sempre em busca de desafios que me permitam aprender e crescer.
 
 ##
 <div style="display: inline_block"><br>
