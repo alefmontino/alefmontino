@@ -2,13 +2,6 @@
 
 ## Sobre Mim
 Olá, me chamo Alef Montino, um apaixonado por tecnologia e programação. Desenvolvo soluções inovadoras e estou sempre em busca de desafios que me permitam aprender e crescer.
-## Formação
-- Analise Desenvolvimento de Sistema
-  
-  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://media.discordapp.net/attachments/828822572678119464/1196811057130373320/62598536.png?ex=65b8fc27&is=65a68727&hm=3057ca084633c6a62a790389b69fbcd8ba8161cc26eec374d6cb79fc8dc632a0&=&format=webp&quality=lossless&width=250&height=250">    Instituto Federal de Educalçao, Ciência e Tecnologia da Bahia
-- Engenharia de Software
-  
-  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://media.discordapp.net/attachments/828822572678119464/1196810892130668605/Logo-Uniasselvi-1.png?ex=65b8fc00&is=65a68700&hm=59943118812818f68a18d027e4daa5d34d04098da7098d9447a6f6ac506e4118&=&format=webp&quality=lossless&width=418&height=418">   Centro Universitário Leonardo da Vinci
 
 ##
 <div style="display: inline_block"><br>
@@ -28,9 +21,17 @@ Olá, me chamo Alef Montino, um apaixonado por tecnologia e programação. Desen
   <a href="https://instagram.com/alefmontino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/MonchihaFW" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/fn7WprSFjz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alefmontino.p@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+## Formação
+- Analise Desenvolvimento de Sistema
+  
+  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://media.discordapp.net/attachments/828822572678119464/1196811057130373320/62598536.png?ex=65b8fc27&is=65a68727&hm=3057ca084633c6a62a790389b69fbcd8ba8161cc26eec374d6cb79fc8dc632a0&=&format=webp&quality=lossless&width=250&height=250">    Instituto Federal de Educalçao, Ciência e Tecnologia da Bahia
+- Engenharia de Software
+  
+  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://media.discordapp.net/attachments/828822572678119464/1196810892130668605/Logo-Uniasselvi-1.png?ex=65b8fc00&is=65a68700&hm=59943118812818f68a18d027e4daa5d34d04098da7098d9447a6f6ac506e4118&=&format=webp&quality=lossless&width=418&height=418">   Centro Universitário Leonardo da Vinci
 
 
 ## Habilidades importantes destacar:
