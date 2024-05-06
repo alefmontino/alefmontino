@@ -33,7 +33,7 @@
 
 
   
-- <img align="center" alt="Rafa-Js" height="30" width="30" src="https://media.discordapp.net/attachments/828822572678119464/1196810892130668605/Logo-Uniasselvi-1.png?ex=65b8fc00&is=65a68700&hm=59943118812818f68a18d027e4daa5d34d04098da7098d9447a6f6ac506e4118&=&format=webp&quality=lossless&width=418&height=418](https://play-lh.googleusercontent.com/lxAibpROnBYS8UdEsiWmEVtBH798TbS3KyKev7KMgdM1YaV349DtjP2L2ckqw3-sPE8=w240-h480-rw)">   Centro Universitário Leonardo da Vinci
+- <img align="center" alt="Rafa-Js" height="30" width="30" src="https://play-lh.googleusercontent.com/lxAibpROnBYS8UdEsiWmEVtBH798TbS3KyKev7KMgdM1YaV349DtjP2L2ckqw3-sPE8=w600-h300-pc0xffffff-pd">   Centro Universitário Leonardo da Vinci
 
   Engenharia de Software
 
