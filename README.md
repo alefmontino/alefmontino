@@ -33,7 +33,7 @@
 
 
   
-- <img align="center" alt="Uniasselvi" height="30" width="60" src="https://play-lh.googleusercontent.com/lxAibpROnBYS8UdEsiWmEVtBH798TbS3KyKev7KMgdM1YaV349DtjP2L2ckqw3-sPE8=w240-h480-rw">   Centro Universitário Leonardo da Vinci
+- <img align="center" alt="Uniasselvi" height="30" width="30" src="https://play-lh.googleusercontent.com/lxAibpROnBYS8UdEsiWmEVtBH798TbS3KyKev7KMgdM1YaV349DtjP2L2ckqw3-sPE8=w240-h480-rw">   Centro Universitário Leonardo da Vinci
 
   Engenharia de Software
 
