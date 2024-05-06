@@ -38,7 +38,7 @@
   Engenharia de Software
 
 ## Projetos Destacados
-- [Projeto 1](link_para_projeto_1): Breve descrição do projeto.
+- [Projeto 1](https://replit.com/@montinolef/ProjetoDomino): Jogo de Dominó em C, estruturado com arvore, fila e arquivos.
 - [Projeto 2](link_para_projeto_2): Breve descrição do projeto.
 - [Projeto 3](link_para_projeto_3): Breve descrição do projeto.
 
