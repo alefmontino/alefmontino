@@ -27,13 +27,13 @@
 </div>
 
 ## Formação
-- <img align="center" alt="Rafa-Js" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/500px-Logotipo_IFET.svg.png">    Instituto Federal de Educalçao, Ciência e Tecnologia da Bahia
+- <img align="center" alt="IFBA" height="30" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/500px-Logotipo_IFET.svg.png">    Instituto Federal de Educalçao, Ciência e Tecnologia da Bahia
 
   Analise Desenvolvimento de Sistema
 
 
   
-- <img align="center" alt="Rafa-Js" height="30" width="30" src="https://play-lh.googleusercontent.com/lxAibpROnBYS8UdEsiWmEVtBH798TbS3KyKev7KMgdM1YaV349DtjP2L2ckqw3-sPE8=w600-h300-pc0xffffff-pd">   Centro Universitário Leonardo da Vinci
+- <img align="center" alt="Uniasselvi" height="30" width="60" src="https://play-lh.googleusercontent.com/lxAibpROnBYS8UdEsiWmEVtBH798TbS3KyKev7KMgdM1YaV349DtjP2L2ckqw3-sPE8=w600-h300-pc0xffffff-pd">   Centro Universitário Leonardo da Vinci
 
   Engenharia de Software
 
