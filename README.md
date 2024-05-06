@@ -27,13 +27,13 @@
 </div>
 
 ## Formação
-- <img align="center" alt="Rafa-Js" height="30" width="30" src="https://media.discordapp.net/attachments/828822572678119464/1196811057130373320/62598536.png?ex=65b8fc27&is=65a68727&hm=3057ca084633c6a62a790389b69fbcd8ba8161cc26eec374d6cb79fc8dc632a0&=&format=webp&quality=lossless&width=250&height=250">    Instituto Federal de Educalçao, Ciência e Tecnologia da Bahia
+- <img align="center" alt="Rafa-Js" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/500px-Logotipo_IFET.svg.png">    Instituto Federal de Educalçao, Ciência e Tecnologia da Bahia
 
   Analise Desenvolvimento de Sistema
 
 
   
-- <img align="center" alt="Rafa-Js" height="30" width="30" src="https://media.discordapp.net/attachments/828822572678119464/1196810892130668605/Logo-Uniasselvi-1.png?ex=65b8fc00&is=65a68700&hm=59943118812818f68a18d027e4daa5d34d04098da7098d9447a6f6ac506e4118&=&format=webp&quality=lossless&width=418&height=418">   Centro Universitário Leonardo da Vinci
+- <img align="center" alt="Rafa-Js" height="30" width="30" src="https://media.discordapp.net/attachments/828822572678119464/1196810892130668605/Logo-Uniasselvi-1.png?ex=65b8fc00&is=65a68700&hm=59943118812818f68a18d027e4daa5d34d04098da7098d9447a6f6ac506e4118&=&format=webp&quality=lossless&width=418&height=418](https://play-lh.googleusercontent.com/lxAibpROnBYS8UdEsiWmEVtBH798TbS3KyKev7KMgdM1YaV349DtjP2L2ckqw3-sPE8=w240-h480-rw)">   Centro Universitário Leonardo da Vinci
 
   Engenharia de Software
 
