@@ -37,4 +37,4 @@
 
   Engenharia de Software
 
-Se você está procurando alguém que combine paixão pela tecnologia com habilidades técnicas sólidas, estou pronto para novos desafios. Vamos criar algo incrível juntos!
+Se você está procurando alguém que combine paixão pela tecnologia com habilidades técnicas, estou pronto para novos desafios. Vamos criar algo incrível juntos!
