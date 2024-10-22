@@ -37,9 +37,4 @@
 
   Engenharia de Software
 
-## Projetos Destacados
-- [Projeto 1](https://replit.com/@montinolef/ProjetoDomino): Jogo de Dominó em C, estruturado com árvore, fila e arquivos.
-- [Projeto 2](https://replit.com/@montinolef/VAGAMAX-PROJETO-ESTACIONAMENTO): Programa VAGAMAX para otimização de trânsito em C.
-- [Projeto 3](https://replit.com/@montinolef/Vendas-em-C-Sistema-de-Estoque-e-Vendas): Sistema de Vendas e estoque em C, estruturado com pilha e arquivos.
-
 Se você está procurando alguém que combine paixão pela tecnologia com habilidades técnicas sólidas, estou pronto para novos desafios. Vamos criar algo incrível juntos!
