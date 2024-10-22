@@ -1,4 +1,4 @@
-# Bem-vindo ao Meu Perfil! - Alef Montino 👋
+# Bem-vindo ao meu perfil! - Alef Montino 👋
 
 ## Carreira
 🌱 Em constante aprendizado, buscando desafios interessantes. Acredito que a melhor maneira de evoluir como desenvolvedor é enfrentar problemas complexos e aprender com cada experiência.
