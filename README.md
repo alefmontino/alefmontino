@@ -27,7 +27,7 @@
 🌱 Em constante aprendizado, buscando desafios interessantes. Acredito que a melhor maneira de evoluir como profissional é enfrentar problemas complexos e aprender com cada experiência.
 
 
-- 🚀 Focado em **Desenvolvimento de Software** com experiência em back-end e front-end.
+- 🚀 Focado em **Desenvolvimento de Software** com experiência em back-end, front-end e AI Solutions.
 - 🤖 Explorando **Soluções de IA & Automação** para otimizar processos e criar produtos inovadores.
 - 💡 Apaixonado por aprender e aplicar novas tecnologias para resolver problemas reais.
 
