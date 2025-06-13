@@ -52,9 +52,6 @@ Minha stack é versátil e estou sempre me atualizando. Atualmente, minhas princ
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logo=LangChain&logoColor=white" alt="langchain"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logoColor=white" alt="rag"/>
-  </a>
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/N8N-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   </a>
