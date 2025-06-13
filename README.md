@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/13ecb6cd-3dcd-4fa4-80b2-13846c81ad45" </img>
+  <img align="center" src="https://github.com/user-attachments/assets/54550a78-11b9-4534-a517-0e70796b7199" </img>
 
   <h1 align="center">Olá 👋, eu sou o Alef Montino</h1>
   <h3 align="center">Sou um desenvolvedor apaixonado em inovações e tecnologia.</h3>
