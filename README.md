@@ -1,14 +1,3 @@
-<style>
-  .hover-effect {
-    transition: transform 0.3s, box-shadow 0.3s, filter 0.3s;
-  }
-  .hover-effect:hover {
-    transform: scale(1.15);
-    box-shadow: 0px 4px 20px rgba(0,0,0,0.3);
-    filter: brightness(1.2);
-  }
-</style>
-
 <div id="header" align="center">
   <img align="center" src="https://github.com/user-attachments/assets/54550a78-11b9-4534-a517-0e70796b7199">
 
