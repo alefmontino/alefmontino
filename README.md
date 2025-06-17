@@ -38,9 +38,13 @@
 Minha stack é versátil e estou sempre me atualizando. Atualmente, minhas principais ferramentas são:
  <div style="display: inline_block"><br>
 <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+<img align="center" alt="n8n" height="30" width="30" src="https://meta-q.cdn.bubble.io/f1740327389123x713161792968389100/n8n%20plugin.png">
+<img align="center" alt="LangChain" height="30" width="30" src="https://yt3.googleusercontent.com/7aMstlSvB1R2xAAOxF91vHWtAX2bhptsv6ROXPglCOyax0HKc8AATSYbqKr-10u4WvJ-e08b7Qg=s900-c-k-c0x00ffffff-no-rj">
+<img align="center" alt="Qdrant" height="30" width="30" src="https://raw.githubusercontent.com/patrickstigler/unraid_app_templates/refs/heads/main/qdrant/qdrant.png">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -48,15 +52,6 @@ Minha stack é versátil e estou sempre me atualizando. Atualmente, minhas princ
 <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</p>
-<p align="left">
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logo=LangChain&logoColor=white" alt="langchain"/>
-  </a>
-  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/N8N-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  </a>
 </p>
 
 ---
